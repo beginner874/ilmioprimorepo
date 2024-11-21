@@ -9,3 +9,4 @@ ciao io sono davide
 - affori centro
 - dergano
 - maciachini
+- zara
