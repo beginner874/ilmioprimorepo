@@ -10,3 +10,4 @@ ciao io sono davide
 - dergano
 - maciachini
 - zara
+- sondrio
