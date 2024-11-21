@@ -23,3 +23,4 @@ ciao io sono davide
 - brenta
 - corvetto
 - porto di mare
+- regoredo FS
