@@ -12,3 +12,4 @@ ciao io sono davide
 - zara
 - sondrio
 - centrale FS
+- caiazzo
