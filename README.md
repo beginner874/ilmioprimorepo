@@ -6,3 +6,4 @@ ciao io sono davide
 # fermata metro gialla
 - comasina
 - affori FN
+- affori centro
