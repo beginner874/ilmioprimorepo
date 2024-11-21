@@ -16,3 +16,4 @@ ciao io sono davide
 - turati
 - montenapoleone
 - duomo
+- missori
