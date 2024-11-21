@@ -13,3 +13,4 @@ ciao io sono davide
 - sondrio
 - centrale FS
 - repubblica
+- turati
