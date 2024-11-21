@@ -15,3 +15,4 @@ ciao io sono davide
 - repubblica
 - turati
 - montenapoleone
+- duomo
