@@ -17,3 +17,4 @@ ciao io sono davide
 - montenapoleone
 - duomo
 - missori
+- crocetta
