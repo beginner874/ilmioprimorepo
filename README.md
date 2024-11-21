@@ -7,3 +7,4 @@ ciao io sono davide
 - comasina
 - affori FN
 - affori centro
+- dergano
